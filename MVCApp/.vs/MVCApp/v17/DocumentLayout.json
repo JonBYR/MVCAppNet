@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JonathanByrne\\Documents\\GitHub\\MVCApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E84DEBE1-82EA-4178-B719-F06585698953}|MVCApp\\MVCApp.csproj|c:\\users\\jonathanbyrne\\documents\\github\\mvcapp\\mvcapp\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E84DEBE1-82EA-4178-B719-F06585698953}|MVCApp\\MVCApp.csproj|solutionrelative:mvcapp\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84DEBE1-82EA-4178-B719-F06585698953}|MVCApp\\MVCApp.csproj|c:\\users\\jonathanbyrne\\documents\\github\\mvcapp\\mvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84DEBE1-82EA-4178-B719-F06585698953}|MVCApp\\MVCApp.csproj|solutionrelative:mvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84DEBE1-82EA-4178-B719-F06585698953}|MVCApp\\MVCApp.csproj|c:\\users\\jonathanbyrne\\documents\\github\\mvcapp\\mvcapp\\views\\home\\createexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E84DEBE1-82EA-4178-B719-F06585698953}|MVCApp\\MVCApp.csproj|solutionrelative:mvcapp\\views\\home\\createexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84DEBE1-82EA-4178-B719-F06585698953}|MVCApp\\MVCApp.csproj|c:\\users\\jonathanbyrne\\documents\\github\\mvcapp\\mvcapp\\models\\mvcappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84DEBE1-82EA-4178-B719-F06585698953}|MVCApp\\MVCApp.csproj|solutionrelative:mvcapp\\models\\mvcappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84DEBE1-82EA-4178-B719-F06585698953}|MVCApp\\MVCApp.csproj|c:\\users\\jonathanbyrne\\documents\\github\\mvcapp\\mvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84DEBE1-82EA-4178-B719-F06585698953}|MVCApp\\MVCApp.csproj|solutionrelative:mvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84DEBE1-82EA-4178-B719-F06585698953}|MVCApp\\MVCApp.csproj|c:\\users\\jonathanbyrne\\documents\\github\\mvcapp\\mvcapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E84DEBE1-82EA-4178-B719-F06585698953}|MVCApp\\MVCApp.csproj|solutionrelative:mvcapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84DEBE1-82EA-4178-B719-F06585698953}|MVCApp\\MVCApp.csproj|c:\\users\\jonathanbyrne\\documents\\github\\mvcapp\\mvcapp\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84DEBE1-82EA-4178-B719-F06585698953}|MVCApp\\MVCApp.csproj|solutionrelative:mvcapp\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84DEBE1-82EA-4178-B719-F06585698953}|MVCApp\\MVCApp.csproj|c:\\users\\jonathanbyrne\\documents\\github\\mvcapp\\mvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E84DEBE1-82EA-4178-B719-F06585698953}|MVCApp\\MVCApp.csproj|solutionrelative:mvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JonathanByrne\\Documents\\GitHub\\MVCApp\\MVCApp\\Program.cs",
+              "RelativeDocumentMoniker": "MVCApp\\Program.cs",
+              "ToolTip": "C:\\Users\\JonathanByrne\\Documents\\GitHub\\MVCApp\\MVCApp\\Program.cs",
+              "RelativeToolTip": "MVCApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:02:00.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MVCAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\JonathanByrne\\Documents\\GitHub\\MVCApp\\MVCApp\\Models\\MVCAppDbContext.cs",
+              "RelativeDocumentMoniker": "MVCApp\\Models\\MVCAppDbContext.cs",
+              "ToolTip": "C:\\Users\\JonathanByrne\\Documents\\GitHub\\MVCApp\\MVCApp\\Models\\MVCAppDbContext.cs",
+              "RelativeToolTip": "MVCApp\\Models\\MVCAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T13:58:00.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateExpense.cshtml",
+              "DocumentMoniker": "C:\\Users\\JonathanByrne\\Documents\\GitHub\\MVCApp\\MVCApp\\Views\\Home\\CreateExpense.cshtml",
+              "RelativeDocumentMoniker": "MVCApp\\Views\\Home\\CreateExpense.cshtml",
+              "ToolTip": "C:\\Users\\JonathanByrne\\Documents\\GitHub\\MVCApp\\MVCApp\\Views\\Home\\CreateExpense.cshtml",
+              "RelativeToolTip": "MVCApp\\Views\\Home\\CreateExpense.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T13:16:13.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\JonathanByrne\\Documents\\GitHub\\MVCApp\\MVCApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\JonathanByrne\\Documents\\GitHub\\MVCApp\\MVCApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T13:10:02.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\JonathanByrne\\Documents\\GitHub\\MVCApp\\MVCApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\JonathanByrne\\Documents\\GitHub\\MVCApp\\MVCApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T13:07:53.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Expenses.cshtml",
+              "DocumentMoniker": "C:\\Users\\JonathanByrne\\Documents\\GitHub\\MVCApp\\MVCApp\\Views\\Home\\Expenses.cshtml",
+              "RelativeDocumentMoniker": "MVCApp\\Views\\Home\\Expenses.cshtml",
+              "ToolTip": "C:\\Users\\JonathanByrne\\Documents\\GitHub\\MVCApp\\MVCApp\\Views\\Home\\Expenses.cshtml",
+              "RelativeToolTip": "MVCApp\\Views\\Home\\Expenses.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T13:04:40.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\JonathanByrne\\Documents\\GitHub\\MVCApp\\MVCApp\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "MVCApp\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\JonathanByrne\\Documents\\GitHub\\MVCApp\\MVCApp\\Models\\Expense.cs",
+              "RelativeToolTip": "MVCApp\\Models\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T13:01:11.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\JonathanByrne\\Documents\\GitHub\\MVCApp\\MVCApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\JonathanByrne\\Documents\\GitHub\\MVCApp\\MVCApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T12:55:01.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
